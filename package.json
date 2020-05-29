@@ -1,5 +1,5 @@
 {
-  "name": "task",
+  "name": "pagination",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "less": "^3.11.1",
+    "less-loader": "^6.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
